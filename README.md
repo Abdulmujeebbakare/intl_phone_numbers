@@ -27,5 +27,7 @@ The frontend was done using <b>Angular</b> and the backend using <b>Spring boot<
 The database is <b>MySQLite</b>.
 
 ## INSTALLATION
-There is no need to install anything. The frontend has already been built and is bundled in the project.
+For the frontend, there is no need to install anything. It has already been built and is bundled in the project.
 The frontend files are located in src/main/resources/static directory.
+
+For the backend, Java 11 is required.
