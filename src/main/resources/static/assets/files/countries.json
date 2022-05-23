@@ -1,0 +1,29 @@
+{
+  "countries": [
+    {
+      "name": "Cameroon",
+      "countryCode": "+237",
+      "numberPattern": "^\\(237\\)\\ ?[2368]\\d{7,8}$"
+    },
+    {
+      "name": "Ethiopia",
+      "countryCode": "+251",
+      "numberPattern": "^\\(251\\)\\ ?[1-59]\\d{8}$"
+    },
+    {
+      "name": "Morocco",
+      "countryCode": "+212",
+      "numberPattern": "^\\(212\\)\\ ?[5-9]\\d{8}$"
+    },
+    {
+      "name": "Mozambique",
+      "countryCode": "+258",
+      "numberPattern": "^\\(258\\)\\ ?[28]\\d{7,8}$"
+    },
+    {
+      "name": "Uganda",
+      "countryCode": "+256",
+      "numberPattern": "^\\(256\\)\\ ?\\d{9}$"
+    }
+  ]
+}
